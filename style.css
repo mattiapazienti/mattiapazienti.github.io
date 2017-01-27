@@ -25,6 +25,7 @@ h1, h2, h3, h4 {
 
 a, a:link, a:visited {
     color: #333;
+    cursor: url('http://fledr.byethost8.com/cursor.png') 20 20, auto;    
 }
 
 a:hover {
