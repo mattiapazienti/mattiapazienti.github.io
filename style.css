@@ -1,6 +1,7 @@
 html, body {
     min-height: 100%;
     background-color: #FFF;
+    cursor: url('http://fledr.byethost8.com/cursor.png') 20 20, auto;
 }
 
 body {
