@@ -1,7 +1,6 @@
 html, body {
     min-height: 100%;
     background-color: #FFF;
-    cursor: url('http://fledr.byethost8.com/cursor.png') 20 20, auto;
 }
 
 body {
@@ -24,8 +23,7 @@ h1, h2, h3, h4 {
 }
 
 a, a:link, a:visited {
-    color: #333;
-    cursor: url('http://fledr.byethost8.com/cursor.png') 20 20, auto;    
+    color: #333;    
 }
 
 a:hover {
