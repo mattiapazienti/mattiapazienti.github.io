@@ -87,6 +87,10 @@ a:hover {
     height: 90px;
 }
 
+.skills {
+    max-width: 900px;
+}
+
 .wavvy__button {
     position: fixed;
     top: calc(50% - 30px);
